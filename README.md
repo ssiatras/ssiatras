@@ -1,5 +1,5 @@
 <h2>
-  Hello! I'm Stathis!
+  Hello, I'm Stathis!
 </h2>
 <p>
   Computer Science Undergraduate @ <a href="https://www.di.uoa.gr/en">Dept. of Informatics and Telecommunications</a>, <a href="https://en.uoa.gr/">University of Athens</a>.
